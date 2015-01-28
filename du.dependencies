@@ -2,7 +2,7 @@
   {
     "repository":  "THCue/android_device_lge_g3-common-1",
     "target_path": "device/lge/g3-common",
-    "branch":      "lollipop-caf"
+    "branch":      "cm-12.0"
   },
   {
     "repository":  "THCue/android_kernel_lge_g3",
