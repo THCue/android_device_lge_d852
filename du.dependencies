@@ -10,7 +10,7 @@
     "branch":      "lollipop-caf"
   },
   {
-    "repository":  "THCue/device_qcom-common",
+    "repository":  "THCue/device_qcom_common",
     "target_path": "device/qcom/common",
     "branch":      "lp5.0"
   }
