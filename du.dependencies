@@ -1,8 +1,8 @@
 [
   {
-    "repository":  "THCue/android_device_lge_g3-common-1",
+    "repository":  "THCue/android_device_lge_g3-common",
     "target_path": "device/lge/g3-common",
-    "branch":      "cm-12.0"
+    "branch":      "lollipop-caf"
   },
   {
     "repository":  "THCue/android_kernel_lge_g3",
@@ -10,8 +10,8 @@
     "branch":      "lollipop-caf"
   },
   {
-    "repository":  "THCue/android_device_qcom-common",
+    "repository":  "THCue/device_qcom-common",
     "target_path": "device/qcom/common",
-    "branch":      "lollipop-caf"
+    "branch":      "lp5.0"
   }
 ]
