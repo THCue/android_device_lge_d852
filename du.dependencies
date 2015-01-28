@@ -9,9 +9,14 @@
     "target_path": "kernel/lge/g3",
     "branch":      "lollipop-caf"
   },
+    {
+    "repository":  "TheMuppets/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch":      "cm-12.0"
+  },
   {
-    "repository":  "THCue/device_qcom_common",
+    "repository":  ""DirtyUnicorns/android_device_qcom-common",
     "target_path": "device/qcom/common",
-    "branch":      "lp5.0"
+    "branch":      "lollipop-caf"
   }
 ]
