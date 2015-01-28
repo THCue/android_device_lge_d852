@@ -1,6 +1,6 @@
 [
   {
-    "repository":  "THCue/android_device_lge_g3-common",
+    "repository":  "THCue/android_device_lge_g3-common-1",
     "target_path": "device/lge/g3-common",
     "branch":      "lollipop-caf"
   },
