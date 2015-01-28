@@ -5,7 +5,7 @@
     "branch":      "lollipop-caf"
   },
   {
-    "repository":  "THCue/android_kernel_lge_g3",
+    "repository":  "DirtyUnicorns/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
     "branch":      "lollipop-caf"
   },
